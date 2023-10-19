@@ -15,13 +15,11 @@ Atualmente estou aprimorando minhas habilidades em:
 
 ## Habilidades
 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"  /> 
 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"  /> 
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Kivy-009999?style=for-the-badge&logo=kivy&logoColor=white" />
-<img src="https://img.shields.io/badge/Tkinter-0178BC?style=for-the-badge&logo=tkinter&logoColor=white" />
-<img src="https://img.shields.io/badge/PyAutoGUI-FF6F00?style=for-the-badge&logo=pyautogui&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /><img src="https://img.shields.io/badge/Kivy-009999?style=for-the-badge&logo=kivy&logoColor=white" />
+<img src="https://img.shields.io/badge/Tkinter-0178BC?style=for-the-badge&logo=tkinter&logoColor=white" /><img src="https://img.shields.io/badge/PyAutoGUI-FF6F00?style=for-the-badge&logo=pyautogui&logoColor=white" />
+
 
 ## Github Stats
 

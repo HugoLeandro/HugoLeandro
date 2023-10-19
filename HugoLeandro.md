@@ -11,7 +11,7 @@ Atualmente estou aprimorando minhas habilidades em:
 
 ## Conecte-se Comigo
 
-<a href = "https://www.linkedin.com/in/s/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "https://www.linkedin.com/in/hugo-leandro-85b229169/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ## Habilidades
 

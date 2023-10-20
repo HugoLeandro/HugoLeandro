@@ -7,7 +7,7 @@ Desenvolvi vários projetos em Python, incluindo desenvolvimento web com Flask e
 Atualmente estou aprimorando minhas habilidades em:
 - JavaScript
 - AWS
-- PowerShell
+- SQL
 
 ## Conecte-se Comigo
 

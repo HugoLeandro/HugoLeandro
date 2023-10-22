@@ -8,6 +8,7 @@ Atualmente estou aprimorando minhas habilidades em:
 - JavaScript
 - AWS
 - SQL
+- Azure
 
 ## Conecte-se Comigo
 

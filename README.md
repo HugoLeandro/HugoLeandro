@@ -5,10 +5,10 @@ Olá, sou o Hugo, um desenvolvedor Python Full Stack.
 Desenvolvi vários projetos em Python, incluindo desenvolvimento web com Flask e Django, automações web e de processos, RPA, web scraping, interfaces gráficas e aplicativos móveis.
 
 Atualmente estou aprimorando minhas habilidades em:
-- JavaScript
-- AWS
+- Deep Learning
+- Machine Learning
 - SQL
-- Azure
+- AWS
 
 ## Conecte-se Comigo
 

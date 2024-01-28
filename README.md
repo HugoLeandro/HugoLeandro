@@ -1,6 +1,6 @@
 # HugoLeandro
 
-Olá! Meu nome é Hugo e sou um desenvolvedor Full Stack especializado em Python. Atualmente, estou cursando o segundo semestre de Ciência da Computação.
+Olá! Meu nome é Hugo e sou um desenvolvedor Full Stack em Python. Atualmente, estou cursando o segundo semestre de Ciência da Computação.
 
 Ao longo da minha jornada, desenvolvi uma variedade de projetos em Python, que abrangem diversas áreas, incluindo:
 

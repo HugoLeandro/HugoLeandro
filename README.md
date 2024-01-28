@@ -10,14 +10,14 @@ RPA (Robotic Process Automation)<br>
 Web scraping<br>
 Criação de interfaces gráficas<br>
 Desenvolvimento de aplicativos móveis<br>
-Além disso, estou em processo de formação em Ciências de Dados, o que tem ampliado ainda mais o meu leque de habilidades.<br>
+Além disso, estou em processo de formação em Ciências de Dados, o que tem ampliado ainda mais o meu leque de habilidades.<br><br>
 
-No momento, estou focado em aprimorar minhas competências em:
+No momento, estou focado em aprimorar minhas competências em:<br><br>
 
-Deep Learning
-Machine Learning
-Azure
-AWS
+Deep Learning<br>
+Machine Learning<br>
+Azure<br>
+AWS<br>
 
 ## Conecte-se Comigo
 

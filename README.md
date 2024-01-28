@@ -9,7 +9,7 @@ Automações web e de processos<br>
 RPA (Robotic Process Automation)<br>
 Web scraping<br>
 Criação de interfaces gráficas<br>
-Desenvolvimento de aplicativos móveis<br>
+Desenvolvimento de aplicativos móveis<br><br>
 Além disso, estou em processo de formação em Ciências de Dados.<br><br>
 
 No momento, estou focado em aprimorar minhas competências em:<br><br>

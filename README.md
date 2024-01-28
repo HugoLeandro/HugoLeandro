@@ -1,14 +1,23 @@
 # HugoLeandro
 
-Olá, sou o Hugo, um desenvolvedor Python Full Stack.
+Olá! Meu nome é Hugo e sou um desenvolvedor Full Stack especializado em Python. Atualmente, estou cursando o segundo semestre de Ciência da Computação.
 
-Desenvolvi vários projetos em Python, incluindo desenvolvimento web com Flask e Django, automações web e de processos, RPA, web scraping, interfaces gráficas e aplicativos móveis.
+Ao longo da minha jornada, desenvolvi uma variedade de projetos em Python, que abrangem diversas áreas, incluindo:
 
-Atualmente estou aprimorando minhas habilidades em:
-- Deep Learning
-- Machine Learning
-- SQL
-- AWS
+Desenvolvimento web com Flask e Django
+Automações web e de processos
+RPA (Robotic Process Automation)
+Web scraping
+Criação de interfaces gráficas
+Desenvolvimento de aplicativos móveis
+Além disso, estou em processo de formação em Ciências de Dados, o que tem ampliado ainda mais o meu leque de habilidades.
+
+No momento, estou focado em aprimorar minhas competências em:
+
+Deep Learning
+Machine Learning
+Azure
+AWS
 
 ## Conecte-se Comigo
 

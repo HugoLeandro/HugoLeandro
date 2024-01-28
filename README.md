@@ -4,7 +4,7 @@ Olá! Meu nome é Hugo e sou um desenvolvedor Full Stack especializado em Python
 
 Ao longo da minha jornada, desenvolvi uma variedade de projetos em Python, que abrangem diversas áreas, incluindo:
 
-Desenvolvimento web com Flask e Django
+Desenvolvimento web com Flask e Django<br>
 Automações web e de processos
 RPA (Robotic Process Automation)
 Web scraping

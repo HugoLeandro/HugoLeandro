@@ -1,7 +1,7 @@
 # HugoLeandro
 Site : https://hugoleandro.up.railway.app
 
-Olá! Meu nome é Hugo e sou um desenvolvedor Python. Atualmente, estou cursando o segundo semestre de Ciência da Computação.
+Graduando em Ciência da Computação, atualmente no terceiro semestre, estou desenvolvendo minhas habilidades em Python por meio de projetos freelancer e buscando aprofundar meus conhecimentos em Ciência de Dados. Tenho grande interesse em aplicar meus conhecimentos em um ambiente profissional e contribuir para o desenvolvimento de projetos inovadores.
 
 Ao longo da minha jornada, desenvolvi uma variedade de projetos em Python, que abrangem diversas áreas, incluindo:
 

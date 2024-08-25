@@ -1,5 +1,5 @@
 # HugoLeandro
-Site : https://pyservices.netlify.app
+Site : https://hugoleandro.up.railway.app
 
 Olá! Meu nome é Hugo e sou um desenvolvedor Python. Atualmente, estou cursando o segundo semestre de Ciência da Computação.
 

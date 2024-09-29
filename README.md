@@ -21,7 +21,7 @@ Atualmente no terceiro semestre e ciência da computação, faço projetos freel
 </a>
 
 
- &nbsp;&nbsp;<a href="https://medium.com/@leandrolimahugo">
+<a href="https://medium.com/@leandrolimahugo">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
 

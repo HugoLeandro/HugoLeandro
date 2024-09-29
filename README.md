@@ -1,25 +1,6 @@
 # HugoLeandro
 Site : https://hugoleandro.up.railway.app
 
-Graduando em Ciência da Computação. Atualmente no terceiro semestre, estou desenvolvendo minhas habilidades em Python por meio de projetos freelancer e buscando aprofundar meus conhecimentos em Ciência de Dados. Tenho grande interesse em aplicar meus conhecimentos em um ambiente profissional e contribuir para o desenvolvimento de projetos inovadores.
-
-Ao longo da minha jornada, desenvolvi uma variedade de projetos em Python, que abrangem diversas áreas, incluindo:
-
-Desenvolvimento web com Flask e Django<br>
-Automações web e de processos<br>
-RPA (Robotic Process Automation)<br>
-Web scraping<br>
-Criação de interfaces gráficas<br>
-Desenvolvimento de aplicativos móveis<br><br>
-Além disso, estou em processo de formação em Ciências de Dados.<br><br>
-
-No momento, estou focado em aprimorar minhas competências em:<br><br>
-
-Deep Learning<br>
-Machine Learning<br>
-Azure<br>
-AWS<br>
-
 ## Conecte-se Comigo
 
 <a href = "https://www.linkedin.com/in/hugo-leandro-85b229169/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

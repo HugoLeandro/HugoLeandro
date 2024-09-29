@@ -20,7 +20,8 @@ Atualmente no terceiro semestre e ciência da computação, faço projetos freel
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://medium.com/@leandrolimahugo">
+
+ &nbsp;&nbsp;<a href="https://medium.com/@leandrolimahugo">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
 
@@ -29,6 +30,7 @@ Atualmente no terceiro semestre e ciência da computação, faço projetos freel
 - <a href="https://github.com/HugoLeandro/House-Prices">
     Projeto Kaggle: prevendo o preço das casas (House Prices)
   </a>
+  
 - <a href="https://medium.com/@leandrolimahugo/entendendo-o-one-hot-encoding-funcionamento-e-vantagens-e93ff3a5efe6">
     Entendendo o One-Hot Encoding: Funcionamento e Vantagens
   </a>

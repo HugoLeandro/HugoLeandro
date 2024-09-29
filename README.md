@@ -1,6 +1,8 @@
 ### Hugo Leandro aqui :D
 Atualmente no terceiro semestre e ciência da computação, faço projetos freelancer utilizando Python. Curioso sobre visão computacional e estudando inglês nas horas vagas.
 
+- 🌍 **Site**  [HL](https://hugoleandro.up.railway.app/)
+
 - 🎓 **Aluno** de Ciência de Dados na [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
 - 🎓 **Aluno** de Ciência da computação na [UNIFAVIP Wyden](https://www.wyden.com.br/)
 - 🎶 Apaixonado por **música**

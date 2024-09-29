@@ -18,11 +18,11 @@ Atualmente no terceiro semestre e ciência da computação, faço projetos freel
 ### Você também me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/hugo-leandro-85b229169/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;
+</a>
 
 &nbsp;<a href="https://medium.com/@leandrolimahugo">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>&nbsp;
+</a>
 
 
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:

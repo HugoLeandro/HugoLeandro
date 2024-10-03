@@ -3,7 +3,7 @@ Atualmente no terceiro semestre e ciência da computação, faço projetos freel
 
 - 🌍 **Site**  [HugoLeandro](https://hugoleandro.up.railway.app/)
 
-- 📈 **Cientista de dados voluntário** na Codigo Certo [Codigo Certo](https://www.codigocertocoders.com.br/)
+- 📈 **Cientista de dados voluntário** na [Codigo Certo](https://www.codigocertocoders.com.br/)
 - 🎓 **Aluno** de Ciência de Dados na [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
 - 🎓 **Aluno** de Ciência da computação na [UNIFAVIP Wyden](https://www.wyden.com.br/)
 - 🎶 Apaixonado por **música**

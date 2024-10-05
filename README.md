@@ -35,3 +35,9 @@ Atualmente no terceiro semestre e ciência da computação, faço projetos freel
     Entendendo o One-Hot Encoding: Funcionamento e Vantagens
   </a>
 
+- <a href="[https://medium.com/@leandrolimahugo/entendendo-o-one-hot-encoding-funcionamento-e-vantagens-e93ff3a5efe6](https://medium.com/@leandrolimahugo/data-cleaning-a-ess%C3%AAncia-para-decis%C3%B5es-baseadas-em-dados-f200a6d342a6)">
+    Data Cleaning: A Essência para Decisões Baseadas em Dados
+  </a>
+
+
+

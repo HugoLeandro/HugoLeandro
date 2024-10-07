@@ -28,7 +28,7 @@ Atualmente no terceiro semestre e ciência da computação, faço projetos freel
 
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:
 - <a href="https://github.com/HugoLeandro/House-Prices">
-    Projeto Kaggle: prevendo o preço das casas (House Prices)
+    Projeto Kaggle: Prevendo o preço das casas (House Prices)
   </a>
   
 - <a href="https://medium.com/@leandrolimahugo/entendendo-o-one-hot-encoding-funcionamento-e-vantagens-e93ff3a5efe6">

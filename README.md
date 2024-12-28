@@ -1,5 +1,5 @@
 ### Hugo Leandro aqui :D
-Atualmente no terceiro semestre e ciência da computação, faço projetos freelancer utilizando Python. Curioso sobre visão computacional e toco violão nas horas vagas.
+Atualmente no quarto semestre e ciência da computação, faço projetos freelancer utilizando Python. Curioso sobre visão computacional e toco violão nas horas vagas.
 
 - 🌍 **Site**  [HugoLeandro](https://hugoleandro.up.railway.app/)
 

@@ -39,7 +39,7 @@ Atualmente no quarto semestre e ciência da computação, faço projetos freelan
     Data Cleaning: A Essência para Decisões Baseadas em Dados
   </a>
 
-- <a href="[https://github.com/HugoLeandro/TrilhaFinalDados/tree/7a611bb34251ace69c048f4d6590bdd6f5986dc8/Trilha_2-Codigo-Certo#DistriSentimentos]">
+- <a href="https://github.com/HugoLeandro/TrilhaFinalDados/tree/7a611bb34251ace69c048f4d6590bdd6f5986dc8/Trilha_2-Codigo-Certo#DistriSentimentos">
     Análise de Sentimentos: NLP e modelagem preditiva
   </a>
 

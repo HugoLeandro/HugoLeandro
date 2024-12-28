@@ -39,5 +39,9 @@ Atualmente no quarto semestre e ciência da computação, faço projetos freelan
     Data Cleaning: A Essência para Decisões Baseadas em Dados
   </a>
 
+- <a href="https://medium.com/@leandrolimahugo/data-cleaning-a-ess%C3%AAncia-para-decis%C3%B5es-baseadas-em-dados-f200a6d342a6">
+    Análise de Sentimentos: NLP e modelagem preditiva
+  </a>
+
 
 

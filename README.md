@@ -29,6 +29,11 @@ Atualmente no quarto semestre e ciência da computação, faço projetos utiliza
 
 
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:
+
+- <a href="https://github.com/HugoLeandro/Projeto_MNIST">
+    Projeto de visão computacional para reconhecimento de dígitos manuscritos usando TensorFlow, Keras e redes neurais convolucionais (CNNs)
+  </a>
+  
 - <a href="https://github.com/HugoLeandro/House-Prices">
     Projeto Kaggle: Prevendo o preço das casas (House Prices)
   </a>

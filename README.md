@@ -1,6 +1,5 @@
 ### Hugo Leandro aqui :D
-Atualmente no quarto semestre e ciência da computação, faço projetos utilizando Python e AWS. Curioso sobre visão computacional e toco violão nas horas vagas.
-
+Atualmente no quarto semestre e ciência da computação, faço projetos utilizando Python e AWS. 
 - 🌍 **Site**  [HugoLeandro](https://hugoleandro.up.railway.app/)
 
 - 📈 **Cientista de dados voluntário** na [Codigo Certo Coders 🚀](https://www.linkedin.com/company/codigocertocoders/posts/?feedView=all)

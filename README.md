@@ -1,8 +1,11 @@
 ### Hugo Leandro aqui :D
 Atualmente no quarto semestre e ciência da computação, faço projetos utilizando Python e AWS. 
+
+
 - 🌍 **Site**  [HugoLeandro](https://hugoleandro.up.railway.app/)
 
-- 📈 **Cientista de dados voluntário** na [Codigo Certo Coders 🚀](https://www.linkedin.com/company/codigocertocoders/posts/?feedView=all)
+- 🤖 **Desenvolvedor Python** na [Pasquali Solution 🚀](https://www.pasqualisolution.com.br/vagas)
+- 📊 **Cientista de dados voluntário** na [Codigo Certo Coders 🚀](https://www.linkedin.com/company/codigocertocoders/posts/?feedView=all)
 - 🎓 **Aluno** de Ciência de Dados na [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
 - 🎓 **Aluno** de Ciência da computação na [UNIFAVIP Wyden](https://www.wyden.com.br/)
 - 🎶 Apaixonado por **música**
